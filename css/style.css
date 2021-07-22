@@ -1,0 +1,17 @@
+body {
+    background-color: #faebd6;
+}
+body h1 {
+    text-align: left;
+    color: #ff0000;
+}
+body p {
+    text-align: left;
+    font-size: 25px;
+}
+.p1 {
+    color: #a42423;
+}
+.p2 {
+    color: #00008f;
+}
